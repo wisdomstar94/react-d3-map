@@ -1,0 +1,1 @@
+export * from './src/components/d3-map/d3-map.component';
